@@ -3,6 +3,7 @@
 
 - 🔭 Em Transição de Carreira para TI (Programador WEB)
 - 🌱 Estudando HTML / CSS e JavaScript...
+- 🍁 Voluntário em Tradução de assuntos TI para o site https://www.freecodecamp.org/;
 
 <div align="center">
   <a href="https://github.com/Fabiogavicente">
