@@ -1,7 +1,7 @@
 ### Olá! Eu sou Fabio Garcia Vicente
 
 
-- 🔭 Hoje Trabalho com Vendas
+- 🔭 Em Transição de Carreira para TI (Programador WEB)
 - 🌱 Estudando HTML / CSS e JavaScript...
 
 <div align="center">
