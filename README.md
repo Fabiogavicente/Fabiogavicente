@@ -1,9 +1,8 @@
 ### Olá! Eu sou Fabio Garcia Vicente
 
 
-- 🔭 Em Transição de Carreira para TI (Programador WEB)
-- 🌱 Estudando JavaScript...
-- 🍁 Voluntário em Tradução de assuntos TI para o site https://www.freecodecamp.org/portuguese/learn;
+- 🔭 Em Transição de Carreira para TI (Programador BackEnd)
+- 🌱 Estudando Phython / SQL...
 
 <div align="center">
   <a href="https://github.com/Fabiogavicente">
